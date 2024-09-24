@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# IDEs and editor specific files
+/.idea/
+/*.iml
+/.vscode/
+/*.sublime-workspace
+/*.sublime-project
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle
+build/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse specific
+.project
+.classpath
+.settings/
