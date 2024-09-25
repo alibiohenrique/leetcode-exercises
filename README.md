@@ -1,7 +1,8 @@
-Leetcode Exercises Repository
+# Leetcode Exercises Repository
 
 This repository contains my solutions to Leetcode exercises, focusing on algorithms and data structures.
-Folder Structure
+
+### Folder Structure
 
 I'm currently working through the [Leetcode Beginner's Guide](https://leetcode.com/explore/learn/card/the-leetcode-beginners-guide/). Each solution is organized by exercise name:
 
@@ -11,7 +12,7 @@ beginners_guide/
 └── Solution.java
 ```
 
-Goal
+### Goal
 
 My goal is to improve problem-solving skills in a fun way by practicing algorithms and data structures on Leetcode.
 
